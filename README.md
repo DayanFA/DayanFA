@@ -1,6 +1,8 @@
 <h1 align="center">Hi there! My Name is Dayan </h1>
 <h3 align="center">Aspiring Information Systems student eager for growth opportunities</h3> 
 
+<p> 
+</p>
 
 <div style="width: 100%;">
 		<div style="float: left;">
