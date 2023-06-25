@@ -16,7 +16,9 @@
   
   </div>
 </details>
-
+<br> 
+<br>
+<br>
 <div style="width: 100%;">
 	<div style="float: left;">
       		<img  align= "left" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=DayanFA&theme=jolly&show_icons=true"/>
