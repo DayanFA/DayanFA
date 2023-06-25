@@ -13,3 +13,14 @@
 		<img  align= "right" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayanFA&layout=compact&langs_count=16&theme=jolly"/>
 	</div>
 </div>
+
+<details>
+  <summary>
+    🔗 Some links for you to get to know me better
+  </summary>
+  <br/>
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
+  
+  </div>
+</details>
