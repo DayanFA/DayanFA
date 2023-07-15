@@ -12,9 +12,34 @@
   </summary>
   <br/>
   <div>
-	<a href="https://dayanfa.github.io">
-    		<img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white">
-	</a>
+<div style="text-align: right; padding: 10px;">
+	<p></p>
+    	<a href="https://dayanfa.github.io">
+        	<img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white">
+    	</a>
+	<p></p>
+    	<a href="https://www.linkedin.com/in/dayanfa">
+        	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    	</a>
+	<p></p>
+    	<a href="https://www.instagram.com/dayanfreitas_a">
+        	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    	</a>
+     	<p></p>
+    	<a href="https://twitter.com/dayanfreitas_a">
+        	<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    	</a>
+     	<p></p>
+    	<a href="https://www.twitch.tv/DayanFreitas_A">
+        	<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    	</a>
+     	<p></p>
+    	<a href="https://youtube.com/@DayanFreitas_A">
+        	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    	</a>
+     	<p></p>
+</div>
+
   </div>
 </details>
 <details>
