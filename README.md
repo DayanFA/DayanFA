@@ -4,7 +4,6 @@
 <br> 
 <br>
 <br>
-</div>
 
 <details>
   <summary>
@@ -42,36 +41,7 @@
 
   </div>
 </details>
-<details>
-  <summary>
-    🔗 Some links for you to get to know me better
-  </summary>
-  <br/>
-  <div>
-    <img src="yyy" />
-  
-  </div>
-</details>
-<details>
-  <summary>
-    🔗 Some links for you to get to know me better
-  </summary>
-  <br/>
-  <div>
-    <img src="yyy" />
-  
-  </div>
-</details>
-<details>
-  <summary>
-    🔗 Some links for you to get to know me better
-  </summary>
-  <br/>
-  <div>
-    <img src="yyy" />
-  
-  </div>
-</details>
+
 <br> 
 <br>
 <br>
