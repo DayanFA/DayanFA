@@ -52,4 +52,4 @@
 	<div style="float: right;">
 		<img  align= "right" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayanFA&layout=compact&langs_count=16&theme=jolly"/>
 	</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DayanFA=anuraghazra&show_icons=true&theme=transparent)
